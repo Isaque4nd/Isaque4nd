@@ -4,7 +4,7 @@
 
 #
 
-🌱 Estou estudando desenvolvimento Front-end e estudando .NET<br>
+🌱 Estou estudando desenvolvimento Front-end e Java com Spring Boot<br>
 📫 Entre em contato comigo pelo e-mail: andradeisq1.7@gmail.com e pelo instagram: @isaquerib5<br>
 😄 Pronouns: ele/dele
 
